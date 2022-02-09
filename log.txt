@@ -1,0 +1,185 @@
+-------------------------------------------------------
+Iteration: 18
+Logged Time: 				 Tue 2021-10-12 10:30:38
+Alert Reported Time: 		 Tue 2021-10-12 10:30:38
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+7 				 (1, 3) 		 6004.515137
+
+Adjacent Nodes 	 Coordinates 	 Height
+3 				 (0, 3) 		 6173.119629
+11 				 (2, 3) 		 -1.000000
+6 				 (1, 2) 		 5914.453125
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:38
+Altimeter Satellite Reporting (meters): 4992.424316
+Altimeter Satellite Reporting Coordinates: (1, 3)
+
+Communication Time (seconds): 0.007746
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 33
+Logged Time: 				 Tue 2021-10-12 10:30:39
+Alert Reported Time: 		 Tue 2021-10-12 10:30:39
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+3 				 (0, 3) 		 6141.106445
+
+Adjacent Nodes 	 Coordinates 	 Height
+7 				 (1, 3) 		 6320.912109
+2 				 (0, 2) 		 6186.875977
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:39
+Altimeter Satellite Reporting (meters): 4375.771973
+Altimeter Satellite Reporting Coordinates: (0, 3)
+
+Communication Time (seconds): 0.093138
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 2
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 36
+Logged Time: 				 Tue 2021-10-12 10:30:39
+Alert Reported Time: 		 Tue 2021-10-12 10:30:39
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+5 				 (1, 1) 		 6158.120605
+
+Adjacent Nodes 	 Coordinates 	 Height
+1 				 (0, 1) 		 6142.064941
+9 				 (2, 1) 		 -1.000000
+4 				 (1, 0) 		 5987.915039
+6 				 (1, 2) 		 -1.000000
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:39
+Altimeter Satellite Reporting (meters): 7513.989258
+Altimeter Satellite Reporting Coordinates: (1, 1)
+
+Communication Time (seconds): 0.002546
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 73
+Logged Time: 				 Tue 2021-10-12 10:30:40
+Alert Reported Time: 		 Tue 2021-10-12 10:30:40
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+9 				 (2, 1) 		 6097.693848
+
+Adjacent Nodes 	 Coordinates 	 Height
+5 				 (1, 1) 		 5958.305176
+8 				 (2, 0) 		 6137.285156
+10 				 (2, 2) 		 -1.000000
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:40
+Altimeter Satellite Reporting (meters): 5497.177734
+Altimeter Satellite Reporting Coordinates: (2, 1)
+
+Communication Time (seconds): 0.023353
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 78
+Logged Time: 				 Tue 2021-10-12 10:30:40
+Alert Reported Time: 		 Tue 2021-10-12 10:30:40
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+9 				 (2, 1) 		 6067.829102
+
+Adjacent Nodes 	 Coordinates 	 Height
+5 				 (1, 1) 		 6259.650879
+8 				 (2, 0) 		 5922.660645
+10 				 (2, 2) 		 -1.000000
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:40
+Altimeter Satellite Reporting (meters): 4691.061035
+Altimeter Satellite Reporting Coordinates: (2, 1)
+
+Communication Time (seconds): 0.036903
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 79
+Logged Time: 				 Tue 2021-10-12 10:30:40
+Alert Reported Time: 		 Tue 2021-10-12 10:30:40
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+10 				 (2, 2) 		 6004.266113
+
+Adjacent Nodes 	 Coordinates 	 Height
+6 				 (1, 2) 		 5977.819336
+9 				 (2, 1) 		 5858.354980
+11 				 (2, 3) 		 -1.000000
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:40
+Altimeter Satellite Reporting (meters): 5595.500977
+Altimeter Satellite Reporting Coordinates: (2, 2)
+
+Communication Time (seconds): 0.008427
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 80
+Logged Time: 				 Tue 2021-10-12 10:30:40
+Alert Reported Time: 		 Tue 2021-10-12 10:30:40
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+10 				 (2, 2) 		 6035.841309
+
+Adjacent Nodes 	 Coordinates 	 Height
+6 				 (1, 2) 		 5923.611816
+9 				 (2, 1) 		 5988.931152
+11 				 (2, 3) 		 -1.000000
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:40
+Altimeter Satellite Reporting (meters): 5170.019531
+Altimeter Satellite Reporting Coordinates: (2, 2)
+
+Communication Time (seconds): 0.068769
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 3
+-------------------------------------------------------
+-------------------------------------------------------
+Iteration: 97
+Logged Time: 				 Tue 2021-10-12 10:30:40
+Alert Reported Time: 		 Tue 2021-10-12 10:30:40
+Alert Type: False
+
+Reporting Node 	 Coordinates 	 Height
+5 				 (1, 1) 		 6417.893555
+
+Adjacent Nodes 	 Coordinates 	 Height
+1 				 (0, 1) 		 6568.605469
+9 				 (2, 1) 		 -1.000000
+4 				 (1, 0) 		 6402.069336
+6 				 (1, 2) 		 -1.000000
+
+Altimeter Satellite Reporting Time: Tue 2021-10-12 10:30:40
+Altimeter Satellite Reporting (meters): 6701.956055
+Altimeter Satellite Reporting Coordinates: (1, 1)
+
+Communication Time (seconds): 0.004411
+Total Messages send between reporting node and base station: 1
+Number of adjacent matches to reporting node: 4
+-------------------------------------------------------
+-------------------------------------------------------
+Summary
+
+Total number of messages received: 8
+Total number of true alerts: 0
+Total number of false alerts: 8
+Total communication time: 2.655858
+-------------------------------------------------------
